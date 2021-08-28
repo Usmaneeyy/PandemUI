@@ -6,3 +6,6 @@ UI for our Final Year Project 'PANDEM' :art:
 1. Place two of your face pictures in your *name labelled* folder. (Preferably .jpg images)
 1. Name those images as **1.jpg** and **2.jpg**
 1. Then just run `npm run dev` in the cmd and hopefully it should work :v:
+
+
+##UI Preview
