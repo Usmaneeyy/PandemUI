@@ -1,0 +1,27 @@
+{
+  "name": "mirror-ui",
+  "version": "1.0.0",
+  "description": "UI for the Mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "Usmaneeyy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/preset-env": "^7.7.6",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-static-files-copy": "^2.6.0"
+  },
+  "dependencies": {
+    "face-api.js": "^0.22.2",
+    "gsap": "^3.7.1",
+    "lottie-web": "^5.7.13"
+  }
+}
