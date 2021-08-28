@@ -8,4 +8,8 @@ UI for our Final Year Project 'PANDEM' :art:
 1. Then just run `npm run dev` in the cmd and hopefully it should work :v:
 
 
-##UI Preview
+## UI Preview
+### Face Recognition and Authentication
+![Image of Face Authentication](demo_pictures/scanning.png)
+### Covid Stats Panel
+![Image of Covid Panel](demo_pictures/covid.png)
